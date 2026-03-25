@@ -19,6 +19,8 @@ authors
 categories  
 popularity (target variable)
 
+dataset link : https://drive.google.com/drive/folders/1tbC4tP8zRj-ThG83sJ4MZOoCK_qk3RzK?usp=sharing
+
 ## Method
 
 Feature engineering is applied using:
